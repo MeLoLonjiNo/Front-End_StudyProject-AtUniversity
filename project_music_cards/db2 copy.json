@@ -1,0 +1,190 @@
+{
+  "products": [
+    {
+      "id": 1,
+    "productcode": "P01",
+    "productname": "Logitech Pebble M350",
+    "productdescription": "Wireless Mouse with Nano Receiver Sensor 1000 Dpi",
+    
+    "productprice": 680,
+    "releasedate": "2019-06-01T17:00:00.000+00:00"
+    
+    
+  }, { "id": 2,
+    "productcode": "P02",
+    "productname": "H150 Stereo Headset",
+    "productdescription": "Logitech Headset with Stereo sound and Dual connection plug",
+    
+    "productprice": 549,
+    "releasedate": "2019-09-07T17:00:00.000+00:00"
+    
+  }, { "id": 3,
+    "productcode": "P03",
+    "productname": "K380 Multi-device Bluetooth Keyboard",
+    "productdescription": "Multi-Device Keyboard Bluetooth From Logitech",
+    
+    "productprice": 1050,
+    "releasedate": "2020-06-17T17:00:00.000+00:00"
+    
+  }, { "id": 4,
+    "productcode": "P04",
+    "productname": "Nubwo X360 NJ-29",
+    "productdescription": "Nubwo Gaming Controller with Connection USB 2.0",
+    
+    "productprice": 690,
+    "releasedate": "2018-05-08T17:00:00.000+00:00"
+    
+  }, { "id": 5,
+    "productcode": "P05",
+    "productname": "Nubwo NBCH X107",
+    "productdescription": "Nubwo Gaming Chair for Game/Office Decorate with RGB lights",
+    
+    "productprice": 5490,
+    "releasedate": "2020-01-11T17:00:00.000+00:00"
+    
+  }, { "id": 6,
+    "productcode": "P06",
+    "productname": "Razer SPHEX V3",
+    "productdescription": "Ultra-thin Gaming Mouse Mat 0.4mm thin with polycarbon build",
+    
+    "productprice": 786,
+    "releasedate": "2019-05-18T17:00:00.000+00:00"
+    
+  }, { "id": 7,
+    "productcode": "P07",
+    "productname": "Razer SEIREN Emote",
+    "productdescription": "Streaming USB Microphone with 8-Bit Emoticon LED Display",
+    
+    "productprice": 5659,
+    "releasedate": "2020-06-06T17:00:00.000+00:00"
+    
+  }, { "id": 8,
+    "productcode": "P08",
+    "productname": "LUMINOUS C30",
+    "productdescription": "Quad High Definition Webcam 1440P Video with Versatile Mounting Options",
+    
+    "productprice": 1115,
+    "releasedate": "2018-09-29T17:00:00.000+00:00"
+    
+  }, { "id": 9,
+    "productcode": "P09",
+    "productname": "SHOOTER GP11",
+    "productdescription": "Fantech Controller CG7 Series LightWeight Design Ultimate Control",
+    
+    "productprice": 445,
+    "releasedate": "2019-08-07T17:00:00.000+00:00"
+    
+  }, { "id": 10,
+    "productcode": "P10",
+    "productname": "HyperX Pulsefire Raid",
+    "productdescription": "Light Weight Mouse with 11 Button and Sensor 3389 Custom By HyperX NGENUITY ",
+    
+    "productprice": 1490,
+    "releasedate": "2020-06-10T17:00:00.000+00:00"
+    
+  }, { "id": 11,
+    "productcode": "P11",
+    "productname": "HyperX QuadCast",
+    "productdescription": "Microphone For Steamimg/Podcast with RGB Effect and Sound filter",
+    
+    "productprice": 4390,
+    "releasedate": "2020-10-18T17:00:00.000+00:00"
+    
+  }, { "id": 12,
+    "productcode": "P12",
+    "productname": "Rival 3 USB Wireless Tranmitter",
+    "productdescription": "Replacement transmitter for Rival 3 Wireless gaming mouse",
+    
+    "productprice": 314,
+    "releasedate": "2019-11-20T17:00:00.000+00:00"
+    
+  }, { "id": 13,
+    "productcode": "P13",
+    "productname": "TUSQ",
+    "productdescription": "In-ear Moblie Gaming Headset, Dual Microphone design with 3 sizes of best-in class silicone ear tips",
+    
+    "productprice": 1257,
+    "releasedate": "2020-12-24T17:00:00.000+00:00"
+    
+  }, { "id": 14,
+    "productcode": "P14",
+    "productname": "NX-F1 Subzero",
+    "productdescription": "Gaming Cooling Pad, Multi-Angel Height and Anti-Slip Baffle",
+    
+    "productprice": 449,
+    "releasedate": "2019-09-29T17:00:00.000+00:00"
+    
+  }, { "id": 15,
+    "productcode": "P15",
+    "productname": "Razer HUNTSMAN V2 Analog",
+    "productdescription": "Gaming Keyboard with Analog switch Doubleshot PBT keycaps",
+    
+    "productprice": 7858,
+    "releasedate": "2020-06-27T17:00:00.000+00:00"
+    
+  }, { "id": 16,
+    "productcode": "P16",
+    "productname": "ALPHA GC-186",
+    "productdescription": "Comfortable Gaming Chair,Suitable for home user/internet cafe",
+    
+    "productprice": 10877,
+    "releasedate": "2020-12-06T17:00:00.000+00:00"
+    
+  }, { "id": 17,
+    "productcode": "P17",
+    "productname": "HyperX FURY S Pro",
+    "productdescription": "Gaming Mouse Pad,Anti-fray stitched edges with Natural Rubber Textured",
+    
+    "productprice": 858,
+    "releasedate": "0019-03-26T17:00:00.000+00:00"
+    
+  }, { "id": 18,
+    "productcode": "P18",
+    "productname": "Arctis Pro Main Headset Cable Pack",
+    "productdescription": "Replacement cable set for Arctis Series 3/5/7 with standard 3.5mm connection",
+    
+    "productprice": 314,
+    "releasedate": "2019-05-18T17:00:00.000+00:00"
+    
+  }],
+  "brands": [{
+    "brandid": "B01",
+    "brandname": "Logitech"
+  }, {
+    "brandid": "B02",
+    "brandname": "Nubwo"
+  }, {
+    "brandid": "B03",
+    "brandname": "Razer"
+  }, {
+    "brandid": "B04",
+    "brandname": "Fantech"
+  }, {
+    "brandid": "B05",
+    "brandname": "Hyper X"
+  }, {
+    "brandid": "B06",
+    "brandname": "Steelseries"
+  }],
+  "colors": [{
+    "colorid": "C01",
+    "colorvalue": "#000000",
+    "colorname": "Black"
+  }, {
+    "colorid": "C02",
+    "colorvalue": "#FFFFFF",
+    "colorname": "White"
+  }, {
+    "colorid": "C03",
+    "colorvalue": "#FF0000",
+    "colorname": "Red"
+  }, {
+    "colorid": "C04",
+    "colorvalue": "#0000FF",
+    "colorname": "Blue"
+  }, {
+    "colorid": "C05",
+    "colorvalue": "#FFC0CB",
+    "colorname": "Pink"
+  }]
+}

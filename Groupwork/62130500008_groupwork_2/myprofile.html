@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Basic Vue Js - HelloWorld App</title>
+
+  <!-- https://tailwindcss.com/docs/installation -->
+  <!-- Using Tailwind via CDN -->
+  <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet" />
+
+  <!-- https://v3.vuejs.org/guide/installation.html#release-notes -->
+  <!-- Vue CDN -->
+  <script src="https://unpkg.com/vue@next"></script>
+
+</head>
+
+<body>
+  <div id="app"> 
+    <div class="py-12 h-screen bg-gray-300">
+      <div class="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-md">
+          <div class="md:flex">
+              <div class="w-full p-2 py-10">
+                  <div class="flex justify-center">
+                      <div class="relative"> <img v-bind:src="profilepic" class="rounded-full" width="80"> 
+                        <span class="absolute border-white border-4 h-5 w-5 top-12 left-16 bg-green-700 rounded-full"></span> 
+                      </div>
+                  </div>
+                  <div class="flex flex-col text-center mt-3 mb-4"> <span class="text-2xl font-medium">{{name}}</span> <span class="text-md text-gray-400">{{igtag}}</span> </div>
+                  <p class="px-16 text-center text-md text-gray-800">{{description}}</p>
+                  <div class="px-16 mt-3 text-center"> 
+                    <span class="bg-gray-100 h-5 p-1 px-3 rounded cursor-pointer hover:shadow hover:bg-gray-200">{{tag1}}</span> 
+                    <span class="bg-gray-100 h-5 p-1 px-3 rounded cursor-pointer hover:shadow hover:bg-gray-200">{{tag2}}</span> 
+                    <span class="bg-gray-100 h-5 p-1 px-3 rounded cursor-pointer hover:shadow hover:bg-gray-200">{{tag3}}</span>
+                    <span class="bg-gray-100 h-5 p-1 px-3 ml-1 rounded cursor-pointer hover:shadow hover:bg-gray-200">{{tag4}}</span> </div>
+                  <div class="px-14 mt-5"> 
+                    <button class="h-12 bg-gray-200 w-full text-black text-md rounded hover:shadow hover:bg-gray-300 mb-2" >{{button1}}</button> 
+                    <button class="h-12 bg-blue-700 w-full text-white text-md rounded hover:shadow hover:bg-blue-800">{{button2}}</button> </div>
+              </div>
+          </div>
+      </div>
+  </div>
+  </div>
+
+  <!-- my main.js -->
+  <script src="./profile.js"></script>
+</body>
+
+</html>
